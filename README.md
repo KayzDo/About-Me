@@ -8,10 +8,6 @@ My name is Do Ngoc Khanh. I graduated from National Economics University, majori
 
 
 
-<a href="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Superstore-Sales-and-Expansion-strategy&theme=radical" />
-</a> 
 <a href="https://github.com/KayzDo/Adventureworks2019-SQL-and-Power-BI-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Adventureworks2019-SQL-and-Power-BI-&theme=merko" />
@@ -20,12 +16,16 @@ My name is Do Ngoc Khanh. I graduated from National Economics University, majori
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=RFM-Analysis&theme=tokyonight" />
 </a>  
+<a href="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Superstore-Sales-and-Expansion-strategy&theme=radical" />
+</a>
 <a href="https://github.com/KayzDo/Explore-Ecommerce-Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Explore-Ecommerce-Dataset&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Explore-Ecommerce-Dataset&theme=gruvbox"/>
 </a> 
 <a href="https://github.com/KayzDo/Explore-Adventureworks2019-Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Explore-Adventureworks2019-Dataset&theme=onedark" />
-</a> 
+</a>
 
