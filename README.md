@@ -6,11 +6,11 @@ My name is Do Ngoc Khanh. I graduated from National Economics University, majori
 
 <a href="https://github.com/KayzDo/Adventureworks2019-SQL-and-Power-BI-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Superstore-Sales-and-Expansion-strategy&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Superstore-Sales-and-Expansion-strategy&theme=radical" />
 </a> 
 <a href="https://github.com/KayzDo/Adventureworks2019-SQL-and-Power-BI-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Adventureworks2019-SQL-and-Power-BI-&theme=merko" />
+  <img align="center" src="https://github-readme stats.anuraghazra1.vercel.app/api/pin/username=KayzDo&repo=Adventureworks2019-SQL-and-Power-BI-&theme=merko" />
 </a> 
 <a href="https://github.com/KayzDo/RFM-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
