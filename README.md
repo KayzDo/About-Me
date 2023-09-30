@@ -4,8 +4,16 @@ My name is Do Ngoc Khanh. I graduated from National Economics University, majori
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kayzdo114/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KayzDo)
 
-<a href=https://github.com/KayzDo/Adventureworks2019-SQL-and-Power-BI->
+<a href="https://github.com/KayzDo/Adventureworks2019-SQL-and-Power-BI-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Superstore-Sales-and-Expansion-strategy&theme=radical" />
-**Description:** This is a repository for the Superstore Sales and Expansion Strategy project. (hello)
 </a> 
+<a href="https://github.com/KayzDo/Adventureworks2019-SQL-and-Power-BI-">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Adventureworks2019-SQL-and-Power-BI-&theme=merko" />
+</a> 
+<a href="https://github.com/KayzDo/RFM-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=RFM-Analysis&theme=tokyonight" />
+</a>  
+
