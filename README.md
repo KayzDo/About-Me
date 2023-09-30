@@ -20,4 +20,12 @@ My name is Do Ngoc Khanh. I graduated from National Economics University, majori
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=RFM-Analysis&theme=tokyonight" />
 </a>  
+<a href="https://github.com/KayzDo/Explore-Ecommerce-Dataset">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Explore-Ecommerce-Dataset&theme=onedark" />
+</a> 
+<a href="https://github.com/KayzDo/Explore-Adventureworks2019-Dataset">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KayzDo&repo=Explore-Adventureworks2019-Dataset&theme=onedark" />
+</a> 
 
